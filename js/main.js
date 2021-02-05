@@ -65,4 +65,11 @@ $(document).ready(function() {
         $(this).parent().children('p').slideToggle();
     });
 
+    // Copyright
+
+    const today = new Date();
+    const year = today.getFullYear();
+
+    $('.copyright').html(`&copy; Banda Especia ${year}`);
+
 });
