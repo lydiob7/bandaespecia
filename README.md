@@ -1,6 +1,6 @@
 # Banda Especia 🎶🎸
 
-[![Banda especia logo](img/metaimg.png)](https://awesome-hypatia-df8d4c.netlify.app/)
+[![Banda especia logo](img/metaimg.jpg)](https://awesome-hypatia-df8d4c.netlify.app/)
 
 ## Bio ✨
 
